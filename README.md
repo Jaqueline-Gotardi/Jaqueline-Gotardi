@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil😁
+## Jaqueline Gotardi - Estudante de Front-End
 
  <div>
    <a href="https://github.com/Jaqueline-Gotardi">
