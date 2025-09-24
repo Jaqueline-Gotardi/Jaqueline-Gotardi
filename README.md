@@ -11,7 +11,8 @@
 🎓 Estudante de **Desenvolvimento Full Stack**, com foco especial em **Front-End**.  
 💻 Apaixonada por transformar ideias em interfaces funcionais, acessíveis e bonitas.  
 📚 Atualmente aprendendo mais sobre **JavaScript**.  
-🚀 Meu objetivo é evoluir todos os dias e construir projetos que tenham impacto real.  
+🚀 Meu objetivo é evoluir todos os dias e construir projetos que tenham impacto real. 
+✨ De Assistente de Farmácia, para Assistente Administrativa, meta: ser uma DEV que resolve problemas reais.
 
 ---
 
