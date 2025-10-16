@@ -10,7 +10,7 @@
 ✨ Oi, eu sou a **Jaqueline Gotardi**!  
 🎓 Estudante de **Desenvolvimento Full Stack**, com foco especial em **Front-End**.  
 💻 Apaixonada por transformar ideias em interfaces funcionais, acessíveis e bonitas.  
-📚 Atualmente aprendendo mais sobre **JavaScript**.  
+📚 Atualmente aprendendo mais sobre **JavaScript** e consumo de **APIs**.  
 🚀 Meu objetivo é evoluir todos os dias e construir projetos que tenham impacto real.                          
 ✨ De Assistente de Farmácia, para Assistente Administrativa, meta: ser uma DEV que resolve problemas reais.
 
