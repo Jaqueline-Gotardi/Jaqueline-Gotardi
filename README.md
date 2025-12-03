@@ -1,4 +1,3 @@
-<!-- Banner animado / espaço sideral com nome e apresentação -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Jaqueline%20Gotardi%20🩵💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -52,7 +51,6 @@
 
 ---
 
-<!-- Rodapé com onda -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=120&section=footer"/>
 </p>
