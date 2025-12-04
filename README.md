@@ -26,12 +26,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub 
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaqueline-Gotardi&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaqueline-Gotardi&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://stats.classic-github.com/Jaqueline-Gotardi/daily_status.svg" alt="Estatísticas Diárias de Contribuição"/>
+</p>
+
+<p align="center">
+  <img src="https://stats.classic-github.com/Jaqueline-Gotardi/top_languages.svg" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
