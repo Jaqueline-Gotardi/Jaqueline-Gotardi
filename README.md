@@ -29,7 +29,7 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaqueline-Gotardi&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaqueline-Gotardi&show_icons=true&theme=tokyonight"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaqueline-Gotardi&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
