@@ -15,10 +15,12 @@
   
 ---
 
-## 🌌 Galáxias em Desenvolvimento (Projetos)
+<div align="center">
+  <h1>📊 Estatísticas do GitHub </h1>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jaqueline-Gotardi&layout=compact&langs_count=7&theme=blue-green" alt="Top Linguagens" title="As linguagens mais usadas nos meus projetos" />
 
-**[Universe Project](https://github.com/Jaqueline-Gotardi/universe)**
-> Meu projeto mais ambicioso. Ainda não está completo. É onde coloco em prática aquilo que estou aprendendo para consolidar minha base de conhecimento.
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaqueline-Gotardi&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" title="Minhas estatísticas e contribuições no GitHub" />
+</div>
 
 ---
 
@@ -33,6 +35,13 @@ Minha base atual de conhecimento técnico, em constante expansão:
   <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="SQL (Prática Recente)">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
 </div>  
+
+---
+
+## 🌌 Galáxias em Desenvolvimento (Projetos)
+
+**[Universe Project](https://github.com/Jaqueline-Gotardi/universe)**
+> Meu projeto mais ambicioso. Ainda não está completo. É onde coloco em prática aquilo que estou aprendendo para consolidar minha base de conhecimento.
 
 ---
 
