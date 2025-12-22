@@ -38,7 +38,7 @@ Minha base atual de conhecimento técnico, em constante expansão:
 
 ---
 
-## 🌌 Galáxias em Desenvolvimento (Projetos)
+## 🌌 Galáxias em Desenvolvimento
 
 **[Universe Project](https://github.com/Jaqueline-Gotardi/universe)**
 > Meu projeto mais ambicioso. Ainda não está completo. É onde coloco em prática aquilo que estou aprendendo para consolidar minha base de conhecimento.
