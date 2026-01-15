@@ -10,7 +10,7 @@
 </p>
 
 - 🎓 **Foco Principal:** Desenvolvimento **Front-End** e usabilidade (UX/UI).
-- 🚀 **Navegação:** Atualmente, explorando o universo **Full Stack**, aprimorando lógica com **JavaScript** e integrando dados com **APIs** e **SQL**.
+- 🚀 **Navegação:** Atualmente, explorando o universo **Full Stack**, usando React e integrando dados com **APIs** e **SQL**.
 - 💫 **Meta:** De Assistente Administrativa a DEV, meu objetivo é resolver problemas reais no desenvolvimento de software.
   
 ---
