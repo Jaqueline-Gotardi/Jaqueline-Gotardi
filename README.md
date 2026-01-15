@@ -29,20 +29,20 @@
 Minha base atual de conhecimento técnico, em constante expansão:
 
 <div align="center">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   
-<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-<img align="center" alt="React" height="40" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-
-<img align="center" alt="Node.js" height="40" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
-<img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="SQL (PostgreSQL)">
-
-<img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-<img align="center" alt="Postman" height="40" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman">
-<img align="center" alt="DBeaver" height="40" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver">
-
+  <!-- Ícones corrigidos abaixo -->
+  <img align="center" alt="React" height="40" width="40" src="raw.githubusercontent.com" title="React">
+  <img align="center" alt="Node.js" height="40" width="40" src="raw.githubusercontent.com" title="Node.js">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
+  <img align="center" alt="Postman" height="40" width="40" src="raw.githubusercontent.com" title="Postman">
+  <img align="center" alt="DBeaver" height="40" width="40" src="raw.githubusercontent.com" title="DBeaver">
 </div>
+
+
 ---
 
 ## 🌌 Galáxias em Desenvolvimento
