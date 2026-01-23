@@ -34,7 +34,6 @@ Minha base atual de conhecimento técnico, em constante expansão:
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-original.svg" width="50" alt="React" />
-  <img align="center" alt="React" height="40" width="40" src="raw.githubusercontent.com" title="React">
   <img align="center" alt="Node.js" height="40" width="40" src="raw.githubusercontent.com" title="Node.js">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
