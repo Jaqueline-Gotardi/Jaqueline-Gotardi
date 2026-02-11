@@ -28,17 +28,26 @@
 
 Minha base atual de conhecimento técnico, em constante expansão:
 
+
 <div align="center">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-original.svg" width="50" alt="React" />
-  <img align="center" alt="Node.js" height="40" width="40" src="raw.githubusercontent.com" title="Node.js">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="Postman" height="40" width="40" src="raw.githubusercontent.com" title="Postman">
-  <img align="center" alt="DBeaver" height="40" width="40" src="raw.githubusercontent.com" title="DBeaver">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=purple)
+![JavaScript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=#F05032)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=#FF6C37)
+![DBeaver](https://img.shields.io/badge/Dbeaver-20232A?style=for-the-badge&logo=dbeaver&logoColor=#382923)
+
 </div>
 
 
