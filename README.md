@@ -6,12 +6,12 @@
 
 ## 🔭Sobre mim
 <p>
-✨ Oi! Eu sou a **Jaqueline Gotardi**, uma desenvolvedora em formação com a missão de transformar ideias complexas em interfaces funcionais e acessíveis. Minha jornada é marcada pela busca ativa por soluções que gerem **impacto real**.
+  ✨ Oi! Eu sou a **Jaqueline Gotardi**, estudante de ADS e desenvolvedora em transição para a área de **Qualidade de Software (QA)**. Minha missão é garantir que a tecnologia não apenas funcione, mas entregue confiança e excelência ao usuário final.
 </p>
 
-- 🎓 **Foco Principal:** Desenvolvimento **Front-End** e usabilidade (UX/UI).
-- 🚀 **Navegação:** Atualmente, explorando o universo **Full Stack**, usando React e integrando dados com **APIs** e **SQL**.
-- 💫 **Meta:** De Assistente Administrativa a DEV, meu objetivo é resolver problemas reais no desenvolvimento de software.
+- 🎓 **Foco Principal: Especialização em **Garantia de Qualidade (QA)** e Testes de Software.
+- - 🚀 **Navegação:** Unindo minha base sólida em **Front-End (React)** e **Back-End (Node.js)** para realizar testes, e manter a integridade de dados.
+- 💫 **Meta:** De Assistente Administrativa a QA, trago um olhar analítico treinando para identificar falhas e otimizar processos reais.
   
 ---
 
@@ -26,30 +26,24 @@
 
 ## 🛰️ O Toolkit da Nave (Tecnologias & Ferramentas)
 
-Minha base atual de conhecimento técnico, em constante expansão:
+Minha base atual de conhecimento, em constante expansão:
 
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html5&logoColor=#E34F26)
-![CSS3](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=purple)
-![JavaScript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Qualidade e Ferramentas
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/Dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Backend
+### Tecnologias de Suporte (Dev)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=#F05032)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=#FF6C37)
-![DBeaver](https://img.shields.io/badge/Dbeaver-20232A?style=for-the-badge&logo=dbeaver&logoColor=#382923)
-
 </div>
-
 
 ---
 
@@ -62,8 +56,6 @@ Minha base atual de conhecimento técnico, em constante expansão:
 
 ## 🌍 Onde me encontrar  
 
-Conecte-se para colaborar ou conversar sobre desenvolvimento e a próxima fronteira tecnológica:
-
 <div align="center">
   <a href="mailto:jaquelineribeirogotardi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jaqueline-gotardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -71,9 +63,9 @@ Conecte-se para colaborar ou conversar sobre desenvolvimento e a próxima fronte
 
 ---
 
-## 🎨 Um toque pessoal  
+## 🎨 Mentalidade  
 
-> “Código é poesia em lógica. Meu propósito é escrever linhas que inspirem e criem soluções de verdade.”  
+> "Desenvolvendo com código e testando com propósito para entregar softwares que realmente funcionam."
 
 ---
 
