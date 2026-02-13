@@ -9,7 +9,7 @@
   ✨ Oi! Eu sou a **Jaqueline Gotardi**, estudante de ADS e desenvolvedora em transição para a área de **Qualidade de Software (QA)**. Minha missão é garantir que a tecnologia não apenas funcione, mas entregue confiança e excelência ao usuário final.
 </p>
 
-- 🎓 **Foco Principal:** Especialização em **Garantia de Qualidade (QA)** e Testes de Software.
+- 🎓 **Foco Principal:** **Garantia de Qualidade (QA)** e Testes de Software.
 - 🚀 **Navegação:** Unindo minha base sólida em **Front-End (React)** e **Back-End (Node.js)** para realizar testes, e manter a integridade de dados.
 - 💫 **Meta:** De Assistente Administrativa a QA, trago um olhar analítico treinando para identificar falhas e otimizar processos reais.
   
