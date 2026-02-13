@@ -65,7 +65,7 @@ Minha base atual de conhecimento, em constante expansão:
 
 ## 🎨 Mentalidade  
 
-> "Desenvolvendo com código e testando com propósito para entregar softwares que realmente funcionam."
+> "Desenvolvendo com código para estudar Qualidade de Software."
 
 ---
 
