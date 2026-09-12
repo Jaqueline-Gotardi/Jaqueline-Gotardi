@@ -11,7 +11,7 @@
 
 - 🎓 **Foco Principal:** **Garantia de Qualidade (QA)** e Testes de Software.
 - 🚀 **Navegação:** Unindo minha base em **Front-End** e **Back-End** para aprender a realizar testes e garantir a qualidade do software.
-- 💫 **Meta:** De Assistente Administrativa a QA, trago um olhar analítico treinando para identificar falhas e otimizar processos reais.
+- 💫 **Meta:** De Frentista para QA, trago um olhar analítico treinando para identificar falhas e otimizar processos reais.
   
 ---
 
